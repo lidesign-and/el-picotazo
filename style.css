@@ -266,7 +266,7 @@ section{
 }
 
 .premio img{
-    height: 60%;
+    width: 100%;
     object-fit: contain;
     filter: drop-shadow(0 10px 8px #0000006e);
 }
